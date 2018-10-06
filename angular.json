@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/CSS/material-pe.min.css",
               "src/styles.css"
             ],
             "scripts": []
